@@ -17,11 +17,16 @@ Bu profil, benim gömülü sistemler portföyüm ve deneyimlerimi gösteriyor.
 ### Drivers
 - GPIO ve periferal sürücüler örnekleri
 
-## Kullandığım Araçlar
-- STM32F4 Serisi Mikrodenetleyiciler
-- STM32CubeIDE / Bare-metal C
-- Embedded C / C
-- Git & GitHub
+## 🚀 Kullandığım Araçlar ve Teknolojiler
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stm32/stm32-original.svg" alt="stm32" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+</p>
+
 
 ## İletişim
 - Email: <nurglelmas@gmail.com>
