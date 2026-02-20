@@ -1,7 +1,6 @@
 # Merhaba, ben Nurgül 👋
 
-Gömülü sistemler ve STM32 projeleri üzerine çalışıyorum.  
-Bu profil, benim gömülü sistemler portföyüm ve deneyimlerimi gösteriyor.
+Gömülü Sistem Mühendisi | STM32 Bare-metal C | Peripheral Driver Development | GPIO, SPI, UART, I2C, LED & Clock Projects | Embedded Systems Enthusiast
 
 ## Projeler
 
@@ -16,6 +15,7 @@ Bu profil, benim gömülü sistemler portföyüm ve deneyimlerimi gösteriyor.
 
 ### Drivers
 - GPIO ve periferal sürücüler örnekleri
+- SPI Slave örnekleri
 
 ## 🚀 Kullandığım Araçlar ve Teknolojiler
 
